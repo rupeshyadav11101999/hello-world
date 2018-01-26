@@ -1,2 +1,3 @@
 # hello-world
-first repository
+Hello everybody 
+I'm going to rock !!
